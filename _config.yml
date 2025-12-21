@@ -8,13 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Dina Nabavian
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
-
+name                     : Dina Nabavian
+description              : Dina Nabavian - Projects and CV 
+baseurl                  : "/Fall-2025-portfolio-Nabavian/"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
