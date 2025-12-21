@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Dina Nabavian
 description              : Dina Nabavian - Projects and CV 
-baseurl                  : "/Fall-2025-portfolio-Nabavian/"
+baseurl                  : "/fa25-portfolio-dnabavian-eng/"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
