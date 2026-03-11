@@ -1,0 +1,15 @@
+---
+layout: project
+title: PSET 5 Q3
+description: MAE 3240, Reflection of Problem 1 on Problem Set 2
+---
+
+<iframe
+  width="600"
+  height="340"
+  src="{{ '/assets/Problem_set_2.pdf' | relative_url }}"
+  frameborder="0">
+</iframe>
+
+
+For my heat transfer class, problem set 2 question 1 taught me a lot about the factors that go into heat transfer through a surface. The cross sectional area is an important part of calculating heat in this problem as seen in part a. Newton's law of cooling shows that you can use convective heat rate to find the heat generated, 1767 Watts. When insulation is added in part b, the heat generated is 441.8 Watts. To find this energy conservation to find the new temperature 2 and then conduction rate was used to find the new q value. As explained in part c adding 2 cm of insulation significantly decreases energy creation by about 75%. This problem taught me about the positive effect of adding insulation to surface has on decreasing heat generation. 
