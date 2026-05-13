@@ -1,0 +1,24 @@
+---
+layout: project
+title: Mechatronics Robot
+description: MAE 3780, group project
+image: assets/images/groupphotomechatronics.jpeg
+---
+<iframe
+  width="600"
+  height="340"
+  src="{{ '/assets/Mechatronics-Final-Report.pdf' | relative_url }}"
+  frameborder="0">
+</iframe>
+
+
+<p>
+I was privileged to create a working autonomous robot with Cleo Hamilton and Natalie Kaplan. 
+I primarily contributed to the mechanical design, while also gaining experience with circuitry 
+and Arduino programming.
+</p>
+
+<img 
+  src="{{ '/assets/images/Competition day.jpeg' | relative_url }}" 
+  alt="Competition Day" 
+  width="600">
